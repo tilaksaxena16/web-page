@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-container{
+    display: flex;
+    background-color: rgb(54, 50, 50);
+    width: 100%;
+    height: 65px;
+    align-items: center;
+
+}
+.logo-div{
+    color: red;
+    font-size: 39px;
+    margin-left: 22px;
+    margin-right: 10px;
+}
+
+.page-name{
+    font-size: 18px;
+    color: antiquewhite;
+}

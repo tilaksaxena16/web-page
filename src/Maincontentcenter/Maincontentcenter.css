@@ -1,0 +1,14 @@
+.main-center-container{
+    width: 21%;
+    height: 120px;
+    border-radius: 2px;
+    background-color: chartreuse;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.main-center-icon{
+    font-size: 45px;
+}

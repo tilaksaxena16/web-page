@@ -1,0 +1,26 @@
+.main-bottom-container-left{
+    width: 46%;
+    height: 192px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 2px 2px #b5abab;
+    
+}
+.main-bottom-div{
+    height: 50px;
+    border-bottom: 1px dotted black;
+    display: flex;
+    align-items: center;
+}
+.font{
+    font-size: 18px;
+    padding-left: 10px;
+}
+.icon{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.col-black{
+    color: black;
+    font-family: fantasy;
+}
+

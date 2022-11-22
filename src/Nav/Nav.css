@@ -1,0 +1,14 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 98%;
+
+}
+.nav-font{
+    font-size: 23px;
+    padding-left: 20px;
+}
+.padding-right5{
+    padding-right: 5px;
+}
